@@ -1,0 +1,8 @@
+cryo gen 
+plast gen
+blast gen
+graph gen
+air unit gen
+land unit gen
+sea unit gen
+walls for all the maps
